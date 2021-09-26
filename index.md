@@ -3,15 +3,7 @@
 <head>
     <meta charset="utf-8"></meta>
     <title>游靖睿的首頁</title>
-	<style type="text/css">
-		.title{font-weight:bold;font-size:24px}
-		.content{width:400px;padding:10px;border:1px dashed blue;margin-top:10px;margin-bottom:10px}
-		.keyword{color:red}
-		.box{
-			 position:relative;left:200px;top:200px;
-			 width:100px;height:100px;background-color:green
-		}
-		</style>
+	
 </head>
 <body>
 	<h1>游靖睿的個人網站</h1>
