@@ -62,14 +62,14 @@
 	</ul>
 	<h3>作品集</h3>
 	<table border="1" width="400" cellpadding="5">
-	    <tr>
+	   
 		    <td>作品名稱</td>
 		</tr>
 		     <td><b>【第四組】LINE對話機器人大賽台北場<iframe src="https://drive.google.com/file/d/1nmZKgaiw6yhWR0azKonKTMGxqV_WQoCs/preview" width="640" height="480" allow="autoplay"></iframe></b></td>
 			 
 		</tr>
 		<tr> 
-			<td><b>北商美食地圖</b><iframe src="https://drive.google.com/file/d/1H-vN2f0GP2skbAJaxWrf1k3CMJcf3G0H/preview" width="640" height="480" allow="autoplay"></iframe></td>
+			<td><b>北商美食地圖</b><iframe src="https://drive.google.com/file/d/1KfzS6i00Tv2v3iZOxkV2QEXVj6GRLr4k/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe></td>
 		</tr>
 	</table>
 
