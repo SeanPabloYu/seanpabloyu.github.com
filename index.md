@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8"></meta>
@@ -61,7 +60,7 @@
 			 
 		
 		<tr> 
-			<td><b>北商美食地圖</b><iframe src="https://drive.google.com/file/d/1Z1ERd65nrfutpklvzt6rfyjA0b1QWx30/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe></td>
+			<td><b>北商美食地圖</b><iframe src="https://drive.google.com/file/d/1Z1ERd65nrfutpklvzt6rfyjA0b1QWx30/preview" width="640" height="480" allow="autoplay"></iframe></td>
 		</tr>
 	</table>
 
