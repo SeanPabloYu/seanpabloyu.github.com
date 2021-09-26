@@ -1,37 +1,97 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"></meta>
+    <title>游靖睿的首頁</title>
+	<style type="text/css">
+		.title{font-weight:bold;font-size:24px}
+		.content{width:400px;padding:10px;border:1px dashed blue;margin-top:10px;margin-bottom:10px}
+		.keyword{color:red}
+		.box{
+			 position:relative;left:200px;top:200px;
+			 width:100px;height:100px;background-color:green
+		}
+		</style>
+</head>
+<body>
+	<h1>游靖睿的個人網站</h1>
 
-You can use the [editor on GitHub](https://github.com/SeanPabloYu/seanpabloyu.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+    <ul>
+		<li>歡迎來到我的個人網站,這裡有關於我的個人介紹</li>
+	</ul>
+    <h3>個人照片</h3>
+	<a href="reme.jpg" target="_blank"><img src="reme.jpg" width="480"></a>
+	<hr/>
+	<h2>個人簡介</h2>
+	<ul>
+	    彭老師您好!我是國立台北商業大學夜間部企管系大三的學生 , 之前曾經暫停學業創業過兩次從事餐飲業 , 目前正規劃轉職成專業
+		<br>的網頁工程師也希望未來能夠朝向這個目標前進,並將於下學期轉為資管系學生,所以我十分珍惜這次人易科技的培訓機會 , 期望
+		<br>能夠靠著自己的熱誠走向專業,如果能夠順利通過第三階段的審核 , 希望能夠讓我成為人易科技的一份子!!!
+    </ul>
+	
+	<h2>對於人易科技的瞭解</h2>
+	<ul>
+		人易科技的母公司為岱鐠科技為提升內部管理效益而創建的雲端平台 , 而岱鐠科技為全球前三大的IC燒錄大廠 , 設立人易科技的初衷是
+		<br>為了打造以人為本的人力管理系統 , 可以讓人人都能快速上手的平台 , 運用科技把繁雜的人事管理化繁為簡 , 讓企業能夠減少行政作業 
+		<br>, 更專注於其核心事業。也讓這項科技技術可以下放到中小型企業 , 使用更直覺化的操作 , 讓員工也可以一目了然了解目前個人的績效
+		<br>表現及出缺勤狀況 , 並且使用GPS定位系統結合LINE官方機器人的功能可直接使用LINE打卡 , 也可搭配公司原有的打卡機及指紋辨識
+		<br>系統進行打卡 。 使用網路請假功能則可立即知會上級主管 , 員工也可以使用線上系統在網上預排班表 , 讓公司能有更便捷的方式進行
+		<br>人事配置 。 NUEiP系統內建薪資核算功能可以直接運算 , 幫助公司進行薪資結算省去了會計成本 , 同時擁有雙重密碼保障避免了個資
+		<br>洩漏的疑慮 。而系統上可設置公司公告來進行政策佈達 , 內部也設有通知可隨時提醒員工今日工作項目及出缺勤示警。設有簽核功能
+		<br>可以使用線上方式直接讓公司公文雲端化管理並且減少人力成本同時加速上級簽核。系統也預設有考核功能能讓人資及主管員工使用
+		<br>起來更為方便,同時解決時間成本。系統有對Google進行整合可讓公司員工使用可以更為簡便把各項NUEiP的功能同步到Google平台進
+		<br>行雙平台對接。NUEiP系統於使用期間任何更新皆為免費,並同時支援繁體.簡體.英文三種語言讓跨國企業也可以方便運用。NUEiP系統
+		<br>目的旨在打造高效率的雲端人資管理系統。
+	</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <h2>為什麼想成為工程師</h2>
+	<ul>
+		因為我在人生的摸索過程中漸漸地對後端資料工程師產生了興趣,並且開始研究了其他擔任資料科學家或資料工程師及商業分析師的心路
+		<br>歷程同時我提起了我的熱誠進行了相關的修行,對於學習相關的知識並且理解了運作方式到自行實作就如同打怪通關一般令人興奮,同時我
+		<br>也喜歡手作一項項目的成就感,那種從無到有完成一項建模或者像現在我正在架設個人網站都令我得到前所未有的成就感!
+	</ul>
 
-### Markdown
+	<h2>為了成為工程師，曾經做過什麼努力？</h2>
+	<ul>
+		我在今年發現了興趣之後,我便參加了勞動部辦理的AI人工智能金融應用與實務培訓班,從中學習到了python的物件導向概念與網路
+		<br>爬蟲以及如何在網路上擷取金融股市相關資訊,我因為擔心教學速度對於我的背景會有些吃力我便使用了Coursera線上教學平台報名
+		<br>了台大線上課程MOOC"python 商管程式設計"兩門課皆於9月底完成,同時我也報名了LINE官方舉辦的LINE Chatbot對話機器人設計
+		<br>大賽同時經過賽前研習課我學習到了如何使用LINE Developer.Message API及Dialogflow的應用,也獨立製作出官方機器人,而我也在
+		<br>之後參加"北商創藝媒體"舉辦的新世代青年城市論壇運用我的LINE官方機器人獲得冠軍!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	</ul>
+	<h3>作品集</h3>
+	<table border="1" width="400" cellpadding="5">
+	    <tr>
+		    <td>作品名稱</td>
+		</tr>
+		     <td><b>【第四組】LINE對話機器人大賽台北場<iframe src="https://drive.google.com/file/d/1nmZKgaiw6yhWR0azKonKTMGxqV_WQoCs/preview" width="640" height="480" allow="autoplay"></iframe></iframe></a></b></td>
+			 
+		</tr>
+		<tr> 
+			<td><b>北商美食地圖</b><iframe src="https://drive.google.com/file/d/1H-vN2f0GP2skbAJaxWrf1k3CMJcf3G0H/preview" width="640" height="480" allow="autoplay"></iframe></td>
+		</tr>
+	</table>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SeanPabloYu/seanpabloyu.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	<h2>對於工程師的職業想像是什麼？</h2>
+	<ul>
+		對於工程師我想每天上班都有新的挑戰等著我,以專案為關卡層層破關解決難題,並且完成公司的每季每年任務目標,與公司各領域的員工主管進行溝通,協力達成任務
+		<br>解決客戶難題完成產品上線,同時不斷精進自我學習新知,而能夠從這之中獲得成就感!
+	</ul>
+	<h2>如果參與這個計畫，會怎麼安排學習時間？</h2>
+	<ul>
+		我會安排於周一至周五早上9點至5點進行課堂學習,同時於晚間有空閒時間再進行預習及複習,同時我於北商有修習網頁程式設計課程可以做為輔助學習項目
+		<br>,也會同時學習與課程相關的項目,我在這兩個月會以全職的身分學習此項目,並以此為主要目標。
+	</ul>
+	<h2>如果參與計畫，你預計會碰到什麼困難，你打算怎麼解決它？</h2>
+	<ul>
+		可以肯定的是在學習的時候遇到困難才能夠成長茁壯,我也預計我會在SQL方面碰上我不熟悉的語法,所以我打算將以其他線上教學平台(如:Coursera)輔助吸收
+		<br>並且多加練習課堂上所學習的內容,如果還有不甚了解的地方也會詢問講師我的疑問。
+	</ul>
+	<h2>想要對我們說的事情？</h2>
+	<ul>
+		非常感謝人易科技這次提供培訓的機會,也是我一直在尋找的機會能夠培訓成為一位專業的工程師,我對於開發工程師一直都有相當大的熱忱,並且此次
+		<br>機會難得能夠在彭彭老師的教導下學習也會是我畢生的榮幸,也希望在結束培訓之後能夠成為NUEiP人易科技雲端產品技術團隊的正式成員!
+	</ul>
+</body>
+</html>
